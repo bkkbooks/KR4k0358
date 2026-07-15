@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR4k0358/v1
 canonical_location: https://kanripo.org/bkk/KR4k0358/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 王隱晉地道記一卷
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR4k0358_001.yaml, hash: 'sha256:6e250afb0a02566cb3688250336cfdd1105963fd512ae9b9383cc6c8d18eaaa3'}
+  - {seq: 1, filename: KR4k0358_001.yaml, hash: 'sha256:290666932cd5da7f7501a20eb039c657a47159d3274f2077d3617d42f793c379'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4k0358_001.markers.yaml, hash: 'sha256:61053cd6cbb1e746356ace50c3f2e6f809ba5427b0ca51a3d0274801ba71975d'}
+  - {seq: 1, role: markers, filename: assets/KR4k0358_001.markers.yaml, hash: 'sha256:ab79b8c73192990fac57871fe753d50a14ccc8ea6e75119d29f0cf0f029db2f0'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 王隱晉地道記
   type: section
   level: 1
-hash: sha256:a1f7a3dd6e26f7b8ae054dd8a8d00fea356b4a222c7d4a5d32fbb0dfa2b6242c
+hash: sha256:355db6f1143e9d1921836ef3903913b9e82436a7e539a8e34df7cf26e34f6787
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
